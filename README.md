@@ -10,3 +10,6 @@ Make sure create-cert.py is executable:
 
 Create your cert:
 ```$ ./create-cert.py```
+
+Example cert:
+![](https://github.com/ortizmj12/devops-league-certerator/raw/master/congratulations.png)
