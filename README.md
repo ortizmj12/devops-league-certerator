@@ -7,9 +7,11 @@ You'll need Pillow to run this:
 ```$ pip install Pillow```
 
 Make sure create-cert.py is executable:
+
 ```$ chmod +x create-cert.py```
 
 Create your cert:
+
 ```$ ./create-cert.py```
 
 Example cert:
