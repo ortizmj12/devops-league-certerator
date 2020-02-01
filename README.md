@@ -15,4 +15,5 @@ Create your cert:
 ```$ ./create-cert.py```
 
 Example cert:
+
 ![](https://github.com/ortizmj12/devops-league-certerator/raw/master/example-cert.png)
